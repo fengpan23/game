@@ -1,0 +1,26 @@
+{
+  "name": "game",
+  "version": "0.1.0",
+  "description": "game-platform",
+  "main": "index.js",
+  "scripts": {
+    "test": "grunt"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fengpan23/game.git"
+  },
+  "keywords": [
+    "game",
+    "platform"
+  ],
+  "author": "fengpan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fengpan23/game/issues"
+  },
+  "homepage": "https://github.com/fengpan23/game#readme",
+  "dependencies": {
+    "underscore": "^1.8.3"
+  }
+}
